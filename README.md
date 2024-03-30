@@ -2,7 +2,7 @@
 
 ## PIZZA SALES REPORT
 ![sales report bi 1](https://github.com/Virgysimba/GITHUB.01/assets/111075399/4d61f311-8f9f-456c-a82a-781f6ef172e1)
-![sales report bi number 2](https://github.com/Virgysimba/GITHUB.01/assets/111075399/5cf969b8-58d0-44c9-8a9a-9c4a47d72e77)
+![sales report bi number 2](https://github.com/Virgysimba/pizza-sales-data/assets/111075399/b1c92fcb-983b-4327-b709-9d22ffa85755)
 
 ## Table of Contents
 
