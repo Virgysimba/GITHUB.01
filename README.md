@@ -1,7 +1,7 @@
-
-
 # Exploratory Data Analysis for the Sales Performance of Pizza
 
+## PIZZA SALES REPORT
+![sales report bi 1](https://github.com/Virgysimba/GITHUB.01/assets/111075399/4d61f311-8f9f-456c-a82a-781f6ef172e1)
 
 ## Table of Contents
 
